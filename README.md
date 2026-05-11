@@ -23,7 +23,16 @@ The EA has been rigorously backtested with exceptional results on **Gold (XAUUSD
 - **Win Rate:** ~50% with an excellent Risk-to-Reward profile.
 - **Expected Payoff:** 9.98 per trade
 
-*(See the attached backtest reports and equity curve screenshots in the repository for detailed statistics).*
+*(See the attached backtest reports and equity curve screenshots below for detailed statistics).*
+
+### Equity Curve
+![Equity Curve](./equity_curve.png)
+
+### Backtest Statistics
+![Backtest Statistics](./backtest_stats.png)
+
+### Correlation
+![Correlation](./correlation.png)
 
 ---
 
